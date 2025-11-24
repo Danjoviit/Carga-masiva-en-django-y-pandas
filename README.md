@@ -110,7 +110,3 @@ print(r.status_code, r.json())
 - `archivo/views.py` : `ExcelUploadView` (lógica de lectura/validación/guardado).
 - `archivo/urls.py` : incluye la ruta `api/productos/upload/`.
 - `myapp/settings.py` : configuración principal.
-
----
-
-Si quieres que escriba el README en otro idioma, que lo guarde en otra ruta, o que añada un ejemplo de prueba unitaria o Postman collection, dime y lo hago.
